@@ -1,0 +1,435 @@
+,Title,Ratings,Number of Ratings,Genres,Release Date,World Wide Gross
+0,Disaster Movie,1.9,84902,Comedy,2008-08-29,34816824.0
+1,Superbabies: Baby Geniuses 2,1.9,29336,Comedy Family Sci-Fi,2004-08-27,9448644.0
+2,Manos: The Hands of Fate,1.9,34056,Horror,1966-11-15,
+3,Kod Adi K.O.Z.,1.4,26947,Crime Mystery,2015-02-13,1186730.0
+4,Birdemic: Shock and Terror,1.8,20184,Horror Thriller,2010-02-27,
+5,The Hottie & the Nottie,1.9,35736,Comedy Romance,2008-02-21,1596232.0
+6,Saving Christmas,1.4,14619,Comedy Family,2014-11-14,2783970.0
+7,House of the Dead,2.0,35242,Action Adventure Horror,2003-10-10,13818181.0
+8,Pledge This!,1.8,16637,Comedy,2007-02-08,1751490.0
+9,Son of the Mask,2.2,50470,Comedy Family Fantasy,2005-02-11,59981548.0
+10,Epic Movie,2.4,99585,Adventure Comedy,2007-01-25,87238158.0
+11,Dünyayi Kurtaran Adam'in Oglu,1.7,15368,Action Comedy Sci-Fi,2006-12-14,2381856.0
+12,Alone in the Dark,2.4,40961,Action Horror Sci-Fi,2005-01-28,12693645.0
+13,From Justin to Kelly,2.1,24565,Comedy Musical Romance,2003-06-20,4928883.0
+14,Battlefield Earth,2.5,74148,Action Adventure Sci-Fi,2000-05-12,29725663.0
+15,Going Overboard,1.8,11948,Comedy,1989-05-12,
+16,Dragonball Evolution,2.5,67743,Action Adventure Fantasy Sci-Fi Thriller,2009-03-12,55720772.0
+17,Daniel der Zauberer,1.8,13786,Comedy Crime Fantasy Music,2004-08-12,
+18,Gigli,2.5,45194,Comedy Crime Romance,2003-08-01,7266209.0
+19,Glitter,2.2,21064,Drama Music Romance,2001-09-21,5271666.0
+20,Meet the Spartans,2.8,99216,Comedy,2008-01-24,85897593.0
+21,Race 3,2.0,30544,Action Thriller,2018-06-14,6817391.0
+22,Date Movie,2.8,55795,Comedy Romance,2006-02-17,85749034.0
+23,Baby Geniuses,2.6,24420,Comedy Crime Family Sci-Fi,1999-03-12,36450736.0
+24,Hobgoblins,2.2,10585,Comedy Horror Sci-Fi,1988-07-14,
+25,Who's Your Caddy?,2.2,14409,Comedy Sport,2007-07-27,5713425.0
+26,Jaws: The Revenge,3.0,38867,Adventure Horror Thriller,1987-07-17,51881013.0
+27,Cats,2.8,26741,Comedy Drama Family Fantasy Musical,2019-12-19,73171106.0
+28,BloodRayne,2.9,33410,Action Adventure Fantasy Horror,2006-01-06,3650275.0
+29,The Human Centipede III (Final Sequence),2.7,13530,Comedy Horror,2015-06-18,16184.0
+30,Troll 2,2.9,29662,Comedy Fantasy Horror,1990-10-12,
+31,Enes Batur Hayal mi Gerçek mi?,4.2,53270,Comedy,2018-01-19,3595901.0
+32,Left Behind,3.1,35092,Action Drama Fantasy Mystery Thriller,2014-10-02,27405896.0
+33,Tees Maar Khan,2.5,10598,Comedy Crime,2010-12-24,2454414.0
+34,Kazaam,3.0,22340,Comedy Family Fantasy Musical,1996-07-17,18937262.0
+35,Rollerball,3.1,24970,Action Sci-Fi Sport,2002-02-08,25852764.0
+36,Gunday,2.3,56838,Action Drama Romance,2014-02-13,843232.0
+37,Jack and Jill,3.3,74294,Comedy,2011-11-11,149673788.0
+38,Steel,2.8,10575,Action Adventure Crime Fantasy Sci-Fi,1997-08-15,1710972.0
+39,Santa Claus Conquers the Martians,2.7,10508,Adventure Comedy Family Fantasy Sci-Fi,1964-11-14,
+40,The Emoji Movie,3.2,51780,Animation Adventure Comedy Family Fantasy,2017-07-28,217776646.0
+41,Catwoman,3.3,106066,Action Crime Fantasy,2004-07-22,82102379.0
+42,Slender Man,3.2,23210,Horror Mystery Thriller,2018-08-09,51738549.0
+43,The Starving Games,3.2,18146,Comedy Sci-Fi,2013-10-31,3906308.0
+44,Bratz,3.0,17111,Comedy Family Music,2007-08-03,26013153.0
+45,Vampires Suck,3.4,45143,Comedy,2010-08-18,80547866.0
+46,3 Ninjas: High Noon at Mega Mountain,2.9,10462,Action Adventure Comedy Family,1998-06-18,375805.0
+47,Daddy Day Camp,3.1,14976,Comedy Family,2007-08-08,18197398.0
+48,Barb Wire,3.3,24126,Action Sci-Fi,1996-05-03,3793614.0
+49,Far Cry,3.1,12909,Action Adventure Sci-Fi,2008-10-02,783501.0
+50,The Open House,3.2,28052,Horror Thriller,2018-01-19,
+51,Dumb and Dumberer: When Harry Met Lloyd,3.4,35983,Comedy,2003-06-13,39267515.0
+52,The Return of the Texas Chainsaw Massacre,3.3,18900,Comedy Horror Thriller,1995-10-21,185898.0
+53,Scary Movie 5,3.5,62414,Comedy,2013-04-11,78378744.0
+54,The Master of Disguise,3.3,21449,Adventure Comedy Family Fantasy,2002-08-02,43411001.0
+55,Hercules in New York,3.3,16394,Adventure Family Fantasy,1970-02-25,
+56,Spice World,3.5,32316,Comedy Family Music,1997-12-17,29342592.0
+57,Die unendliche Geschichte III: Rettung aus Phantasien,3.2,10587,Adventure Comedy Family Fantasy,1994-10-27,
+58,Crossroads,3.5,37566,Comedy Drama Romance,2002-02-15,61141030.0
+59,The Adventures of Sharkboy and Lavagirl 3-D,3.5,29185,Action Adventure Comedy Family Fantasy Sci-Fi,2005-06-10,71992655.0
+60,Spy Kids 4: All the Time in the World,3.5,21191,Action Adventure Comedy Family Sci-Fi,2011-08-18,85564310.0
+61,The Room,3.7,76938,Drama,2004-03-03,5770824.0
+62,Feardotcom,3.4,19261,Crime Horror Thriller,2002-08-09,18902015.0
+63,Bucky Larson: Born to Be a Star,3.2,10957,Comedy,2011-05-27,2530394.0
+64,Captain America,3.2,10678,Action Adventure Sci-Fi War,1990-12-14,
+65,Fifty Shades of Black,3.5,18375,Comedy,2016-01-28,22227514.0
+66,Police Academy: Mission to Moscow,3.6,30422,Comedy Crime,1994-06-10,126247.0
+67,Batman & Robin,3.7,225038,Action Sci-Fi,1997-06-20,238235915.0
+68,D-War,3.5,23265,Action Drama Fantasy Horror Thriller,2007-08-01,75108817.0
+69,Jaws 3-D,3.7,37284,Adventure Horror Thriller,1983-07-22,87987055.0
+70,The Wicker Man,3.7,62101,Horror Mystery Thriller,2006-08-31,38805380.0
+71,Mac and Me,3.3,11093,Adventure Family Fantasy Sci-Fi,1988-08-12,6424112.0
+72,Dungeons & Dragons,3.6,31142,Action Adventure Fantasy,2000-12-08,33978694.0
+73,Mortal Kombat: Annihilation,3.7,44461,Action Adventure Fantasy Sci-Fi Thriller,1997-11-21,51376861.0
+74,I Know Who Killed Me,3.6,25420,Crime Drama Mystery Thriller,2007-07-27,9669758.0
+75,The Fog,3.7,33955,Horror,2005-10-14,46201432.0
+76,Superman IV: The Quest for Peace,3.7,40914,Action Adventure Family Sci-Fi,1987-07-24,15681020.0
+77,Piranha 3DD,3.7,38377,Comedy Horror,2012-05-11,8518634.0
+78,Teen Wolf Too,3.3,10434,Comedy Fantasy,1987-11-20,7888703.0
+79,The Flintstones in Viva Rock Vegas,3.6,20393,Comedy Family Romance Sci-Fi,2000-04-28,59468275.0
+80,The Love Guru,3.8,48987,Comedy Romance Sport,2008-06-20,40877556.0
+81,Street Fighter: The Legend of Chun-Li,3.7,22368,Action Crime Thriller,2009-02-25,12764201.0
+82,In the Name of the King: A Dungeon Siege Tale,3.8,43182,Action Adventure Fantasy Horror Thriller War,2007-11-29,13097915.0
+83,Stan Helsing,3.6,11991,Comedy Horror,2010-03-25,1475003.0
+84,The Human Centipede II (Full Sequence),3.8,33972,Horror,2012-03-29,170323.0
+85,Dance Flick,3.5,11371,Action Comedy Music,2009-05-22,31439140.0
+86,Speed 2: Cruise Control,3.9,71727,Action Adventure Crime Romance Thriller,1997-06-13,164508066.0
+87,The Avengers,3.8,39718,Action Adventure Sci-Fi Thriller,1998-08-13,23384939.0
+88,S. Darko,3.6,12841,Mystery Sci-Fi Thriller,2009-08-21,1079949.0
+89,Swept Away,3.6,15049,Comedy Romance,2002-10-11,1036520.0
+90,The Adventures of Pluto Nash,3.8,23684,Comedy Action Sci-Fi,2002-08-16,7103973.0
+91,Ballistic: Ecks vs. Sever,3.7,18645,Action Crime Mystery Sci-Fi Thriller,2002-09-20,20154899.0
+92,Beverly Hills Chihuahua,3.8,21705,Adventure Comedy Drama Family Romance,2008-09-25,149292488.0
+93,The Cat in the Hat,3.9,48640,Adventure Comedy Family Fantasy,2003-11-21,133960541.0
+94,Exorcist II: The Heretic,3.8,20610,Horror,1977-06-17,30749142.0
+95,Holmes & Watson,3.8,25711,Comedy Crime Mystery,2018-12-20,40466970.0
+96,Street Fighter,3.9,63297,Action Adventure Comedy Thriller,1994-12-23,99431786.0
+97,The Hungover Games,3.6,10521,Comedy,2014-02-18,
+98,Escape Plan 2: Hades,3.8,24694,Action Crime Mystery Sci-Fi Thriller,2018-06-13,17592626.0
+99,2001: A Space Travesty,3.6,11185,Comedy Sci-Fi,2000-11-17,270813.0
+100,Gisaengchung,8.6,272228,Comedy Drama Thriller,2019-05-30,204581001.0
+101,Sonic the Hedgehog,6.9,16248,Action Adventure Comedy Family Sci-Fi,2020-02-12,203101671.0
+102,Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn,6.6,47966,Action Adventure Crime,2020-02-05,173729015.0
+103,Jojo Rabbit,8.0,136187,Comedy Drama War,2019-10-24,85968604.0
+104,1917,8.5,193841,Drama War,2020-01-02,347287469.0
+105,Knives Out,8.0,188000,Comedy Crime Drama Mystery Thriller,2019-11-27,305993842.0
+106,Uncut Gems,7.6,104144,Crime Drama Thriller,2019-12-25,49942100.0
+107,Fantasy Island,4.6,3794,Adventure Comedy Horror Mystery,2020-02-12,33772070.0
+108,Once Upon a Time ...in Hollywood,7.7,392528,Comedy Drama,2019-07-24,374341301.0
+109,Joker,8.6,689963,Crime Drama Thriller,2019-10-01,1073255159.0
+110,The Gentlemen,8.1,38747,Action Crime,2020-01-01,71019990.0
+111,The Call of the Wild,6.9,2416,Adventure Drama Family,2020-02-19,40220000.0
+112,Ford v Ferrari,8.2,148629,Action Biography Drama Sport,2019-11-13,225229408.0
+113,Emma.,6.8,1491,Comedy Drama,2020-02-13,8630000.0
+114,To All the Boys: P.S. I Still Love You,6.1,9938,Drama Romance,2020-02-12,
+115,Little Women,8.0,63599,Drama Romance,2019-12-24,199047271.0
+116,Jumanji: The Next Level,6.9,83924,Action Adventure Comedy Fantasy,2019-12-04,787964423.0
+117,Dolittle,5.5,15878,Action Adventure Comedy Family Fantasy,2020-01-01,204194290.0
+118,Doctor Sleep,7.4,76143,Drama Fantasy Horror Thriller,2019-10-30,72281712.0
+119,Midway,6.7,29445,Action Drama History War,2019-11-06,125414592.0
+120,Bad Boys for Life,7.2,40672,Action Comedy Crime Thriller,2020-01-15,391175645.0
+121,The Irishman,8.0,247348,Biography Crime Drama,2019-11-14,961224.0
+122,Midsommar,7.2,119268,Drama Horror Mystery Thriller,2019-07-03,42291572.0
+123,Charlie's Angels,4.4,24937,Action Adventure Comedy,2019-11-13,70994355.0
+124,Frozen II,7.1,74837,Animation Adventure Comedy Family Fantasy Musical,2019-11-20,1443733931.0
+125,The Lighthouse,7.7,75792,Drama Fantasy Horror Mystery,2019-10-18,17567104.0
+126,Toy Story 4,7.9,158835,Animation Adventure Comedy Family Fantasy,2019-06-20,1073394593.0
+127,Marriage Story,8.0,177170,Comedy Drama Romance,2019-11-28,323382.0
+128,The Last Thing He Wanted,4.3,2572,Crime Drama Mystery Thriller,2020-02-21,
+129,Horse Girl,5.9,6423,Drama Mystery,2020-02-07,
+130,Dark Waters,7.6,14811,Biography Drama History Thriller,2019-11-27,13601384.0
+131,Terminator: Dark Fate,6.3,97950,Action Adventure Sci-Fi,2019-10-23,261119292.0
+132,Snowpiercer,7.1,265706,Action Drama Sci-Fi,2013-08-01,86758912.0
+133,Downhill,4.9,1023,Comedy Drama,2020-02-12,7416591.0
+134,Star Wars: Episode IX - The Rise of Skywalker,6.9,258435,Action Adventure Fantasy Sci-Fi,2019-12-18,1070066761.0
+135,A Beautiful Day in the Neighborhood,7.4,27624,Biography Drama,2019-11-22,66741848.0
+136,Brahms: The Boy II,4.3,760,Horror Mystery Thriller,2020-02-19,8120000.0
+137,Hustlers,6.4,53857,Comedy Crime Drama Thriller,2019-09-12,157563598.0
+138,To All the Boys I've Loved Before,7.2,74057,Drama Romance,2018-08-17,
+139,Avengers: Endgame,8.5,671197,Action Adventure Drama Sci-Fi,2019-04-24,2797800564.0
+140,The Lion King,6.9,167964,Animation Adventure Drama Family Musical,2019-07-12,1656943394.0
+141,21 Bridges,6.6,16697,Action Crime Drama Thriller,2019-09-25,49439757.0
+142,Bombshell,6.8,32488,Biography Drama,2019-12-19,53772190.0
+143,Queen & Slim,7.0,8868,Crime Drama Romance,2019-11-27,46597100.0
+144,Color Out of Space,6.2,7736,Horror Sci-Fi,2020-02-05,767755.0
+145,The Coldest Game,6.3,3026,Thriller,2019-11-08,
+146,Portrait de la jeune fille en feu,8.2,17264,Drama Romance,2019-09-18,7053532.0
+147,Alita: Battle Angel,7.3,191433,Action Adventure Sci-Fi Thriller,2019-02-05,404852543.0
+148,The Photograph,6.2,911,Drama Romance,2020-02-14,17694640.0
+149,Judy,6.9,23916,Biography Drama Romance,2019-09-27,40188062.0
+150,The Godfather,9.2,1511061,Crime Drama,1972-03-24,246120974.0
+151,6 Underground,6.1,101860,Action Adventure Comedy Thriller,2019-12-13,
+152,Suicide Squad,6.0,566848,Action Adventure Fantasy Sci-Fi,2016-08-03,746846894.0
+153,Onward,7.4,189,Animation Adventure Comedy Family Fantasy,2020-03-04,
+154,Gretel & Hansel,5.4,4111,Fantasy Horror Thriller,2020-01-30,18043523.0
+155,Honey Boy,7.4,9904,Drama,2019-11-27,3203244.0
+156,Blade Runner 2049,8.0,414366,Action Drama Mystery Sci-Fi Thriller,2017-10-04,259239658.0
+157,Love Aaj Kal,5.3,2778,Romance,2020-02-12,86493.0
+158,Cats,2.8,26741,Comedy Drama Family Fantasy Musical,2019-12-19,73171106.0
+159,The Shawshank Redemption,9.3,2193148,Drama,1994-09-23,28786657.0
+160,The Dark Knight,9.0,2175630,Action Crime Drama Thriller,2008-07-16,1004934033.0
+161,Bloodshot,6.6,68,Action Drama Sci-Fi,2020-02-20,
+162,After,5.4,24006,Drama Romance,2019-04-10,69733482.0
+163,The Night Clerk,5.1,429,Crime Drama,2020-02-19,
+164,Ad Astra,6.6,145445,Adventure Drama Mystery Sci-Fi Thriller,2019-09-18,132807427.0
+165,Maleficent: Mistress of Evil,6.7,54724,Adventure Family Fantasy,2019-10-16,491730089.0
+166,Fighting with My Family,7.1,52149,Biography Comedy Drama Sport,2019-02-21,40810036.0
+167,Zombieland: Double Tap,6.8,85216,Action Comedy Horror,2019-10-09,122810399.0
+168,Okja,7.3,85776,Action Adventure Drama Sci-Fi,2017-06-28,2049823.0
+169,Isi & Ossi,6.5,1898,Comedy Romance,2020-02-14,
+170,Aladdin,7.0,187297,Adventure Family Fantasy Musical Romance,2019-05-22,1050693953.0
+171,Greed,5.7,487,Comedy Drama,2020-02-21,
+172,Inglourious Basterds,8.3,1184015,Adventure Drama War,2009-08-19,321455689.0
+173,Good Time,7.3,66558,Crime Drama Thriller,2017-08-25,3283369.0
+174,The Lodge,6.6,2442,Drama Horror Thriller,2020-01-16,1630439.0
+175,Gemini Man,5.7,54876,Action Drama Sci-Fi Thriller,2019-10-02,173469516.0
+176,Call Me by Your Name,7.9,178175,Drama Romance,2017-10-27,41887595.0
+177,It Chapter Two,6.6,158438,Drama Fantasy Horror,2019-09-04,473093228.0
+178,The Jesus Rolls,4.4,648,Comedy Crime Drama,2019-10-17,46479.0
+179,Rocketman,7.3,96845,Biography Drama Music Musical,2019-05-17,195179299.0
+180,Richard Jewell,7.5,17969,Biography Crime Drama,2019-12-13,39345542.0
+181,The Two Popes,7.6,75248,Biography Comedy Drama,2019-12-05,243711.0
+182,Harriet,6.3,10832,Action Biography Drama History,2019-11-01,43282155.0
+183,The Shawshank Redemption,9.3,2193148,Drama,1994-09-23,28786657.0
+184,The Godfather,9.2,1511061,Crime Drama,1972-03-24,246120974.0
+185,The Godfather: Part II,9.0,1058454,Crime Drama,1974-12-18,48035783.0
+186,The Dark Knight,9.0,2175630,Action Crime Drama Thriller,2008-07-16,1004934033.0
+187,12 Angry Men,8.9,639777,Drama,1957-04-10,576.0
+188,Schindler's List,8.9,1144808,Biography Drama History,1993-12-15,322243445.0
+189,The Lord of the Rings: The Return of the King,8.9,1559705,Adventure Drama Fantasy,2003-12-17,1142219401.0
+190,Pulp Fiction,8.9,1723477,Crime Drama,1994-09-10,214179088.0
+191,"Il buono, il brutto, il cattivo",8.8,650544,Western,1966-12-23,25252481.0
+192,The Lord of the Rings: The Fellowship of the Ring,8.8,1571535,Action Adventure Drama Fantasy,2001-12-19,887832826.0
+193,Fight Club,8.8,1751839,Drama,1999-10-15,101187503.0
+194,Forrest Gump,8.8,1692235,Drama Romance,1994-07-06,678194861.0
+195,Inception,8.8,1924516,Action Adventure Sci-Fi Thriller,2010-07-14,829895144.0
+196,Star Wars: Episode V - The Empire Strikes Back,8.7,1101289,Action Adventure Fantasy Sci-Fi,1980-05-21,547897454.0
+197,The Lord of the Rings: The Two Towers,8.7,1408058,Adventure Drama Fantasy,2002-12-18,951208089.0
+198,The Matrix,8.7,1579314,Action Sci-Fi,1999-03-31,465343787.0
+199,Goodfellas,8.7,954138,Biography Crime Drama,1990-09-12,46879633.0
+200,One Flew Over the Cuckoo's Nest,8.7,864913,Drama,1975-11-19,108997629.0
+201,Shichinin no samurai,8.6,296966,Action Adventure Drama,1954-04-26,322773.0
+202,Se7en,8.6,1351015,Crime Drama Mystery Thriller,1995-09-22,327333559.0
+203,Cidade de Deus,8.6,667474,Crime Drama,2002-08-30,30680793.0
+204,Gisaengchung,8.6,272228,Comedy Drama Thriller,2019-05-30,204581001.0
+205,La vita è bella,8.6,581568,Comedy Drama Romance War,1997-12-20,230098753.0
+206,The Silence of the Lambs,8.6,1190442,Crime Drama Thriller,1991-02-14,272753884.0
+207,It's a Wonderful Life,8.6,376483,Drama Family Fantasy,1947-01-07,6130720.0
+208,Star Wars,8.6,1173428,Action Adventure Fantasy Sci-Fi,1977-05-25,775512064.0
+209,Saving Private Ryan,8.6,1163339,Drama War,1998-07-24,482349603.0
+210,Sen to Chihiro no kamikakushi,8.6,588228,Animation Adventure Family Fantasy Mystery,2001-07-20,347742810.0
+211,The Green Mile,8.6,1070037,Crime Drama Fantasy Mystery,1999-12-10,286801374.0
+212,Interstellar,8.6,1377846,Adventure Drama Sci-Fi,2014-11-05,677471339.0
+213,Léon,8.5,971943,Action Crime Drama Thriller,1994-09-14,19501238.0
+214,The Usual Suspects,8.5,940546,Crime Mystery Thriller,1995-07-19,23341568.0
+215,Seppuku,8.7,30494,Action Drama History,1962-09-16,15222.0
+216,The Lion King,8.5,887052,Animation Adventure Drama Family Musical,1994-06-23,968511805.0
+217,American History X,8.5,987057,Drama,1998-11-20,23875127.0
+218,Terminator 2: Judgment Day,8.5,948992,Action Sci-Fi,1991-07-03,520884847.0
+219,Back to the Future,8.5,981923,Adventure Comedy Sci-Fi,1985-07-03,388355305.0
+220,The Pianist,8.5,678144,Biography Drama Music War,2002-09-25,120072577.0
+221,Modern Times,8.5,201925,Comedy Drama Family Romance,1936-02-11,457688.0
+222,Psycho,8.5,564366,Horror Mystery Thriller,1960-09-08,32000000.0
+223,Gladiator,8.5,1266646,Action Adventure Drama,2000-05-04,460583960.0
+224,City Lights,8.5,155565,Comedy Drama Romance,1931-03-07,46008.0
+225,Intouchables,8.5,710540,Biography Comedy Drama,2011-11-02,426588510.0
+226,The Departed,8.5,1121858,Crime Drama Thriller,2006-10-04,291465034.0
+227,Joker,8.6,689963,Crime Drama Thriller,2019-10-01,1073255159.0
+228,Whiplash,8.5,657785,Drama Music,2014-10-15,48982041.0
+229,The Prestige,8.5,1112636,Drama Mystery Sci-Fi Thriller,2006-10-19,109676311.0
+230,C'era una volta il West,8.5,284176,Western,1968-12-21,112229.0
+231,Casablanca,8.5,494421,Drama Romance War,1942-12-09,4374761.0
+232,Hotaru no haka,8.5,211580,Animation Drama War,1988-04-16,516962.0
+233,Rear Window,8.4,416856,Mystery Thriller,1954-11-15,37032034.0
+234,Nuovo Cinema Paradiso,8.5,212367,Drama,1988-11-17,12645096.0
+235,Alien,8.4,744749,Horror Sci-Fi,1979-05-28,108283202.0
+236,Raiders of the Lost Ark,8.4,841729,Action Adventure,1981-06-12,390133212.0
+237,Apocalypse Now,8.4,571949,Drama Mystery War,1979-08-15,91967769.0
+238,Memento,8.4,1066259,Mystery Thriller,2000-10-11,39723096.0
+239,The Great Dictator,8.4,189835,Comedy Drama War,1941-01-01,969879.0
+240,1917,8.5,193841,Drama War,2020-01-02,347287469.0
+241,Das Leben der Anderen,8.4,337295,Drama Mystery Thriller,2006-03-23,77356942.0
+242,Django Unchained,8.4,1270774,Drama Western,2012-12-25,425368238.0
+243,Avengers: Infinity War,8.5,748881,Action Adventure Sci-Fi,2018-04-25,2048359754.0
+244,Paths of Glory,8.4,164948,Drama War,1957-12-20,5252.0
+245,The Shining,8.4,834878,Drama Horror,1980-06-13,46207001.0
+246,WALL·E,8.4,945640,Animation Adventure Family Sci-Fi,2008-06-26,521311860.0
+247,Avengers: Endgame,8.5,671197,Action Adventure Drama Sci-Fi,2019-04-24,2797800564.0
+248,Spider-Man: Into the Spider-Verse,8.4,297199,Animation Action Adventure Family Sci-Fi,2018-12-12,375540831.0
+249,Mononoke-hime,8.4,309736,Animation Adventure Fantasy,1997-07-12,162112497.0
+250,Sunset Blvd.,8.4,187824,Drama Film-Noir,1950-09-29,299645.0
+251,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,8.4,429028,Comedy,1964-01-29,9443876.0
+252,Oldeuboi,8.4,481330,Action Drama Mystery Thriller,2003-11-21,14999673.0
+253,Witness for the Prosecution,8.4,98588,Crime Drama Film-Noir Mystery Thriller,1958-02-06,7693.0
+254,The Dark Knight Rises,8.4,1440929,Action Adventure,2012-07-19,1081041287.0
+255,Once Upon a Time in America,8.4,291160,Crime Drama,1984-05-23,5472914.0
+256,Aliens,8.3,622502,Action Adventure Sci-Fi Thriller,1986-07-18,131335326.0
+257,Kimi no na wa.,8.4,158154,Animation Drama Fantasy Romance,2016-08-26,358922706.0
+258,American Beauty,8.3,1022493,Drama,1999-10-01,356296601.0
+259,Coco,8.4,321371,Animation Adventure Family Fantasy Music Mystery,2017-10-27,807082196.0
+260,Braveheart,8.3,919804,Biography Drama History War,1995-05-24,213216216.0
+261,Das Boot,8.3,219177,Adventure Drama Thriller War,1981-09-17,11487676.0
+262,3 Idiots,8.4,316614,Comedy Drama,2009-12-24,60262836.0
+263,Toy Story,8.3,837042,Animation Adventure Comedy Family Fantasy,1995-11-22,404265438.0
+264,Tengoku to jigoku,8.5,26164,Crime Drama Mystery Thriller,1963-03-01,46808.0
+265,Star Wars: Episode VI - Return of the Jedi,8.3,903061,Action Adventure Fantasy Sci-Fi,1983-05-25,475347111.0
+266,Taare Zameen Par,8.4,152036,Drama Family,2007-12-21,21897373.0
+267,Amadeus,8.3,350376,Biography Drama History Music,1984-09-19,52066791.0
+268,Reservoir Dogs,8.3,868065,Crime Drama Thriller,1992-09-02,2859750.0
+269,Inglourious Basterds,8.3,1184015,Adventure Drama War,2009-08-19,321455689.0
+270,Good Will Hunting,8.3,804660,Drama Romance,1998-01-09,225933435.0
+271,2001: A Space Odyssey,8.3,567508,Adventure Sci-Fi,1968-04-11,68763373.0
+272,Requiem for a Dream,8.3,726584,Drama,2000-11-03,7390108.0
+273,M - Eine Stadt sucht einen Mörder,8.3,134060,Crime Mystery Thriller,1931-08-31,35566.0
+274,Vertigo,8.3,336987,Mystery Romance Thriller,1958-05-22,7796389.0
+275,Dangal,8.4,135964,Action Biography Drama Sport,2016-12-21,303723636.0
+276,Eternal Sunshine of the Spotless Mind,8.3,857580,Drama Romance Sci-Fi,2004-03-19,74036715.0
+277,Citizen Kane,8.3,377008,Drama Mystery,1941-06-06,1594107.0
+278,Jagten,8.3,256590,Drama,2012-10-25,16742257.0
+279,Full Metal Jacket,8.3,636990,Drama War,1987-07-10,46357676.0
+280,North by Northwest,8.3,282423,Adventure Mystery Thriller,1959-09-26,71534.0
+281,A Clockwork Orange,8.3,718030,Crime Drama Sci-Fi,1972-01-13,26903440.0
+282,Snatch,8.3,744806,Comedy Crime,2000-09-01,83557872.0
+283,The Kid,8.3,103861,Comedy Drama Family,1921-02-06,26916.0
+284,Ladri di biciclette,8.3,134786,Drama,1948-11-24,428978.0
+285,Singin' in the Rain,8.3,205812,Comedy Musical Romance,1952-04-11,1864182.0
+286,Scarface,8.3,694820,Crime Drama,1983-12-09,66023329.0
+287,Taxi Driver,8.3,675417,Crime Drama,1976-02-08,28441292.0
+288,Le fabuleux destin d'Amélie Poulain,8.3,673261,Comedy Romance,2001-04-25,173924742.0
+289,Lawrence of Arabia,8.3,252774,Adventure Biography Drama History War,1962-12-11,45710874.0
+290,Toy Story 3,8.3,718628,Animation Adventure Comedy Family Fantasy,2010-06-16,1066969703.0
+291,The Sting,8.3,228946,Comedy Crime Drama,1973-12-25,156000000.0
+292,Capharnaüm,8.4,38457,Drama,2018-09-20,64413178.0
+293,Metropolis,8.3,150728,Drama Sci-Fi,1927-02-06,1349711.0
+294,Per qualche dollaro in più,8.3,217253,Western,1965-12-20,15000000.0
+295,Ikiru,8.3,61781,Drama,1952-10-09,90773.0
+296,Jodaeiye Nader az Simin,8.3,206325,Drama,2011-03-16,22926076.0
+297,Double Indemnity,8.3,134148,Crime Drama Film-Noir Mystery Thriller,1944-07-06,13886.0
+298,To Kill a Mockingbird,8.3,281511,Crime Drama,1962-12-20,599146.0
+299,The Apartment,8.3,151971,Comedy Drama Romance,1960-09-16,177066.0
+300,Indiana Jones and the Last Crusade,8.2,657978,Action Adventure,1989-05-24,474310887.0
+301,Incendies,8.3,132709,Drama Mystery War,2011-01-12,7099598.0
+302,Up,8.2,883300,Animation Adventure Comedy Family,2009-05-28,735099082.0
+303,L.A. Confidential,8.2,508506,Crime Drama Mystery Thriller,1997-09-19,126216940.0
+304,Monty Python and the Holy Grail,8.2,478548,Adventure Comedy Fantasy,1975-05-25,1938877.0
+305,Heat,8.2,544121,Crime Drama Thriller,1995-12-15,187436818.0
+306,Die Hard,8.2,749251,Action Thriller,1988-07-20,141482154.0
+307,Rashômon,8.2,141903,Crime Drama Mystery,1950-08-26,46808.0
+308,Yôjinbô,8.2,102881,Action Drama Thriller,1961-04-25,46808.0
+309,Batman Begins,8.2,1242334,Action Adventure,2005-06-15,373413297.0
+310,Unforgiven,8.2,354905,Drama Western,1992-08-07,159157447.0
+311,Green Book,8.2,292598,Biography Comedy Drama Music,2018-11-16,329780417.0
+312,Der Untergang,8.2,315803,Biography Drama History War,2004-09-16,92181574.0
+313,Bacheha-Ye aseman,8.3,58090,Drama Family Sport,1999-01-22,933933.0
+314,Some Like It Hot,8.2,230090,Comedy Music Romance,1959-03-19,83169282.0
+315,Hauru no ugoku shiro,8.2,297212,Animation Adventure Family Fantasy,2004-11-20,236212992.0
+316,Idi i smotri,8.3,47867,Drama War,1985-10-17,113125.0
+317,Ran,8.2,103893,Action Drama,1985-06-01,4160924.0
+318,The Great Escape,8.2,212598,Adventure Drama History Thriller War,1963-07-04,227940.0
+319,All About Eve,8.2,113792,Drama,1950-10-27,150438.0
+320,A Beautiful Mind,8.2,801767,Biography Drama,2002-01-04,316791257.0
+321,Tonari no Totoro,8.2,256351,Animation Family Fantasy,1988-04-16,30476708.0
+322,Casino,8.2,435026,Crime Drama,1995-11-22,116112375.0
+323,El laberinto del fauno,8.2,590976,Drama Fantasy War,2006-10-11,83850267.0
+324,Raging Bull,8.2,302674,Biography Drama Sport,1980-12-19,23402117.0
+325,El secreto de sus ojos,8.2,180123,Drama Mystery Romance Thriller,2009-08-13,42629597.0
+326,"Lock, Stock and Two Smoking Barrels",8.2,509122,Comedy Crime,1998-08-28,3753929.0
+327,The Wolf of Wall Street,8.2,1091267,Biography Crime Drama,2013-12-25,392000694.0
+328,The Treasure of the Sierra Madre,8.2,107635,Adventure Drama Western,1948-01-24,215295.0
+329,Judgment at Nuremberg,8.2,64658,Drama War,1961-12-18,12180.0
+330,"Three Billboards Outside Ebbing, Missouri",8.2,383376,Comedy Crime Drama,2017-12-01,160192031.0
+331,There Will Be Blood,8.2,483116,Drama,2008-01-25,76181545.0
+332,Chinatown,8.2,276651,Drama Mystery Thriller,1974-06-20,29225935.0
+333,Babam ve Oglum,8.3,72280,Drama Family,2005-11-18,18612999.0
+334,The Gold Rush,8.2,93426,Adventure Comedy Drama Family,1925-07-13,26916.0
+335,Dial M for Murder,8.2,146607,Crime Thriller,1954-05-29,18816.0
+336,V for Vendetta,8.2,982052,Action Drama Sci-Fi Thriller,2006-03-15,132511035.0
+337,Inside Out,8.2,567783,Animation Adventure Comedy Drama Family Fantasy,2015-06-17,857611174.0
+338,Det sjunde inseglet,8.2,150496,Drama Fantasy,1957-02-16,230571.0
+339,Warrior,8.2,415876,Drama Sport,2011-09-09,23308615.0
+340,No Country for Old Men,8.1,799695,Crime Drama Thriller,2007-11-21,171627166.0
+341,Trainspotting,8.1,608639,Drama,1996-02-23,16593356.0
+342,The Elephant Man,8.1,207352,Biography Drama,1980-10-10,26010864.0
+343,Shutter Island,8.1,1053842,Mystery Thriller,2010-02-18,294804195.0
+344,Room,8.1,337846,Drama Thriller,2015-12-10,35401758.0
+345,The Sixth Sense,8.1,871818,Drama Mystery Thriller,1999-08-06,672806292.0
+346,The Thing,8.1,347657,Horror Mystery Sci-Fi,1982-06-25,19629760.0
+347,Gone with the Wind,8.1,273613,Drama History Romance War,1940-01-17,402352579.0
+348,Blade Runner,8.1,655934,Action Sci-Fi Thriller,1982-06-25,41473619.0
+349,Jurassic Park,8.1,815043,Action Adventure Sci-Fi Thriller,1993-06-11,1032020521.0
+350,The Bridge on the River Kwai,8.1,192754,Adventure Drama War,1957-10-11,27200000.0
+351,The Third Man,8.1,150603,Film-Noir Mystery Thriller,1949-10-12,1225424.0
+352,On the Waterfront,8.1,133653,Crime Drama Thriller,1954-06-22,
+353,Finding Nemo,8.1,902628,Animation Adventure Comedy Family,2003-05-30,940343261.0
+354,Smultronstället,8.2,88188,Drama Romance,1957-12-26,14524.0
+355,Fargo,8.1,582841,Crime Drama Thriller,1996-04-05,60611975.0
+356,Kill Bill: Vol. 1,8.1,946998,Action Crime Thriller,2003-10-10,180899045.0
+357,Gran Torino,8.1,690277,Drama,2009-01-09,269958228.0
+358,The Deer Hunter,8.1,294896,Drama War,1979-02-22,49074243.0
+359,Stalker,8.2,104646,Drama Sci-Fi,1980-04-17,303806.0
+360,The Truman Show,8.1,875294,Comedy Drama Sci-Fi,1998-06-05,264118201.0
+361,Tôkyô monogatari,8.2,46874,Drama,1953-11-03,40405.0
+362,Ford v Ferrari,8.2,148629,Action Biography Drama Sport,2019-11-13,225229408.0
+363,Eskiya,8.3,58643,Crime Drama Thriller,1996-11-29,
+364,Relatos salvajes,8.1,160384,Comedy Drama Thriller,2014-08-21,30642704.0
+365,Andhadhun,8.3,55896,Crime Thriller,2018-10-04,49391206.0
+366,Salinui chueok,8.1,114673,Action Crime Drama Mystery Thriller,2003-05-02,547456.0
+367,The Big Lebowski,8.1,689274,Comedy Crime Sport,1998-03-06,46735469.0
+368,Mary and Max,8.1,156247,Animation Comedy Drama Family,2009-04-09,1739445.0
+369,In the Name of the Father,8.1,147062,Biography Drama,1993-12-27,65796862.0
+370,Gone Girl,8.1,799101,Drama Mystery Thriller,2014-10-01,369330363.0
+371,Klaus,8.2,58052,Animation Adventure Comedy Family,2019-11-08,
+372,Hacksaw Ridge,8.1,395082,Biography Drama History War,2016-11-03,180450918.0
+373,The Grand Budapest Hotel,8.1,662259,Adventure Comedy Crime,2014-02-26,172936941.0
+374,Mr. Smith Goes to Washington,8.1,101460,Comedy Drama,1939-10-19,144738.0
+375,How to Train Your Dragon,8.1,633808,Animation Action Adventure Family Fantasy,2010-03-18,494878759.0
+376,The General,8.1,75142,Action Adventure Comedy Drama War,1927-01-02,
+377,Sherlock Jr.,8.2,36346,Action Comedy Romance,1924-05-11,
+378,Before Sunrise,8.1,249767,Drama Romance,1995-01-27,5986708.0
+379,Persona,8.1,92454,Drama Thriller,1966-10-18,12142.0
+380,Catch Me If You Can,8.1,762532,Biography Crime Drama,2002-12-25,352114312.0
+381,Prisoners,8.1,554681,Crime Drama Mystery Thriller,2013-09-19,122126687.0
+382,12 Years a Slave,8.1,602517,Biography Drama History,2013-11-08,187733202.0
+383,Cool Hand Luke,8.1,153932,Crime Drama,1967-11-01,
+384,Into the Wild,8.1,542066,Adventure Biography Drama,2007-09-28,56674477.0
+385,Network,8.1,136865,Drama,1976-11-27,23689877.0
+386,Le salaire de la peur,8.1,50544,Adventure Drama Thriller,1953-04-22,1098.0
+387,Stand by Me,8.1,345333,Adventure Drama,1986-11-04,52287414.0
+388,Mad Max: Fury Road,8.1,820849,Action Adventure Sci-Fi Thriller,2015-05-13,375209362.0
+389,Life of Brian,8.1,348215,Comedy,1979-08-17,20714870.0
+390,Barry Lyndon,8.1,138910,Adventure Drama History War,1975-12-18,198992.0
+391,Platoon,8.1,363651,Drama War,1987-02-06,138545632.0
+392,Million Dollar Baby,8.1,605635,Drama Sport,2005-01-14,216763646.0
+393,Hachi: A Dog's Tale,8.1,235330,Drama Family,2009-08-08,46749646.0
+394,Rush,8.1,408855,Biography Drama Sport,2013-09-12,96983009.0
+395,La passion de Jeanne d'Arc,8.1,43158,Biography Drama History,1928-04-21,21877.0
+396,Logan,8.1,600697,Action Drama Sci-Fi Thriller,2017-02-28,619021436.0
+397,Ben-Hur,8.1,208426,Adventure Drama History,1960-01-29,74427638.0
+398,Rang De Basanti,8.2,104545,Comedy Drama,2006-01-26,8846694.0
+399,Kaze no tani no Naushika,8.1,134250,Animation Adventure Fantasy Sci-Fi,1984-03-11,2340981.0
+400,Andrey Rublev,8.2,41824,Biography Drama History,1971-12-24,145491.0
+401,Harry Potter and the Deathly Hallows: Part 2,8.1,719269,Adventure Drama Fantasy Mystery,2011-07-12,1341932398.0
+402,Dead Poets Society,8.1,391834,Comedy Drama,1989-06-09,235860116.0
+403,Les quatre cents coups,8.1,96811,Crime Drama,1959-06-03,127244.0
+404,Amores perros,8.1,212965,Drama Thriller,2000-06-16,20908467.0
+405,Hotel Rwanda,8.1,321887,Biography Drama History War,2005-01-20,33882243.0
+406,Spotlight,8.1,387622,Biography Crime Drama,2015-11-20,98690254.0
+407,Rebecca,8.1,114989,Drama Mystery Romance Thriller,1940-04-12,72275.0
+408,Ah-ga-ssi,8.1,92178,Drama Romance Thriller,2016-06-01,37767206.0
+409,Rocky,8.1,491529,Drama Sport,1976-12-03,117235147.0
+410,"Monsters, Inc.",8.0,772062,Animation Adventure Comedy Family Fantasy,2001-11-02,632316649.0
+411,La haine,8.1,137361,Crime Drama,1995-05-31,280859.0
+412,It Happened One Night,8.1,88025,Comedy Romance,1934-02-22,
+413,Ace in the Hole,8.2,27628,Drama Film-Noir,1951-07-04,2300000.0
+414,The Red Shoes,8.2,27589,Drama Music Romance,1948-09-06,30165.0
+415,The Princess Bride,8.1,373136,Adventure Family Fantasy Romance,1987-10-09,30877156.0
+416,White Heat,8.2,27309,Action Crime Drama Film-Noir,1949-09-03,5534.0
+417,Before Sunset,8.0,218267,Drama Romance,2004-06-17,15936507.0
+418,Faa yeung nin wa,8.1,112403,Drama Romance,2000-09-29,12854953.0
+419,Lagaan: Once Upon a Time in India,8.1,97618,Adventure Drama Musical Sport,2001-06-15,1724806.0
+420,Gangs of Wasseypur,8.2,73219,Action Comedy Crime Drama Thriller,2012-06-22,4384642.0
+421,The Help,8.1,405590,Drama,2011-08-10,216639112.0
+422,The Terminator,8.0,763186,Action Sci-Fi,1984-10-26,78475971.0
+423,Butch Cassidy and the Sundance Kid,8.0,193871,Biography Crime Drama Western,1969-09-24,102310639.0
+424,"Paris, Texas",8.1,80142,Drama,1984-08-23,2206121.0
+425,Akira,8.0,150974,Animation Action Drama Sci-Fi Thriller,1988-07-16,577594.0
+426,PK,8.1,147444,Comedy Drama Fantasy Musical,2014-12-18,100370104.0
+427,Contratiempo,8.1,101869,Crime Mystery Thriller,2017-01-06,31191910.0
+428,Aladdin,8.0,347247,Animation Adventure Comedy Family Fantasy Musical Romance,1992-11-25,504050219.0
+429,Guardians of the Galaxy,8.0,996753,Action Adventure Comedy Sci-Fi,2014-07-31,772776600.0
+430,Groundhog Day,8.0,556012,Comedy Fantasy Romance,1993-02-12,70906973.0
+431,"Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni",8.1,32927,Animation Action Drama Fantasy Sci-Fi,2019-06-24,
+432,Le samouraï,8.1,41446,Crime Drama Mystery Thriller,1967-10-25,
+
